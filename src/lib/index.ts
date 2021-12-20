@@ -1,0 +1,1 @@
+export { createNomnomlSVG } from "../core";
